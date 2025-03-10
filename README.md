@@ -11,4 +11,4 @@ After completing these steps, a button should appear in the bottom left corner, 
 ## Video Guide
 For a step-by-step walkthrough, watch the video below:
 
-[Watch Video](vid.mp4)
+[![Watch Video](https://img.youtube.com/vi/uR9ITTwJc3w/0.jpg)](https://youtu.be/uR9ITTwJc3w)
